@@ -34,7 +34,7 @@ It also sends a confirmation email with the responses, providing immediate feedb
 <p align="right"><small><i>Parameters configured for the "Add a row to a table" activity in Excel</i></small></p>
 <br>
 
-![Flow Overview](screenshots/04excel.png)  
+<img width="3356" height="376" alt="image" src="https://github.com/user-attachments/assets/0443ea16-00b2-41fe-90db-2d5682eed259" />
 <p align="right"><small><i>Snapshot of the Excel file where user responses are stored</i></small></p>
 <br>
 
