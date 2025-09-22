@@ -13,10 +13,10 @@ It also sends a confirmation email with the responses, providing immediate feedb
 
 ## How it works
 
-- 📝 **Trigger** When a response is submitted in Microsoft Forms 
-- 💾 **Save responses** Automatically store them in an Excel table 
-- ✉️ **Confirmation email** Optional email to participants with their responses
-- 📊 **Organized data** Keep responses structured for analysis and visualization 
+- 📝 **Trigger:** When a response is submitted in Microsoft Forms 
+- 💾 **Save responses:** Automatically store them in an Excel table 
+- ✉️ **Confirmation email:** Optional email to participants with their responses
+- 📊 **Organized data:** Keep responses structured for analysis and visualization 
 
 ---
 
@@ -56,6 +56,6 @@ It also sends a confirmation email with the responses, providing immediate feedb
 
 Developed by <a href="https://github.com/reinarins">@reinarins</a>
 <br>
-RPA Developer | UiPath | Digital innovation from a human and ethical perspective
+RPA Developer | Digital innovation from a human and ethical perspective
 <br>
 Feel free to connect on <a href="https://www.linkedin.com/in/irisfrro/">LinkedIn</a>!
