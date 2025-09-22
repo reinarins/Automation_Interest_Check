@@ -1,0 +1,16 @@
+# Archivos temporales y de respaldo
+*.zip
+*.xlsx
+*.xlsm
+*.tmp
+*.log
+*.bak
+
+# Capturas si solo quieres que estén locales
+*.png
+*.jpg
+
+# Archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
+AppData/
